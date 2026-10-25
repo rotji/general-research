@@ -5,6 +5,8 @@
 
 **Intended use:** This guide can be applied to regulatory research, business analysis, market research, public policy, healthcare, agriculture, finance, education, technology and other fields.
 
+**Place in the framework:** Use the question-and-analysis guide in `02-investigation-question-analysis-structure.md` to determine what needs to be established and which methods are appropriate. This file focuses on how to examine sources and establish evidence reliably. The checklist below remains a practical end-to-end aid, so its steps should be applied in proportion to the question rather than treated as compulsory work for every task. Use `03-reporting-structure-evolution.md` to choose an appropriate output.
+
 ---
 
 # Part 1. The basic principle of source investigation
