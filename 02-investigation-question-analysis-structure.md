@@ -66,7 +66,35 @@ Questions can serve different purposes.
 - **Evaluative:** How well is a process, policy, system, or intervention working?
 - **Decision-oriented:** What does the evidence suggest should be considered or done next?
 
-One investigation may include several of these question types. The primary question should still be clear.
+One investigation may include several of these question types. The primary question should still be clear. These categories help describe the task; they do not, by themselves, determine a complete method.
+
+### 3.4 Selecting analytical methods
+
+After clarifying the question, decide what reasoning or procedure would actually produce a satisfactory answer. Start with the required answer, not with a favourite method or a fixed checklist.
+
+Ask:
+
+1. What would a complete and useful answer need to establish?
+2. What observations, records, measurements, definitions, or comparisons would support that answer?
+3. What kind of reasoning is needed to move from the evidence to the answer?
+4. Which methods are necessary, which might help, and which would add no meaningful value?
+5. What could make the answer wrong or incomplete, and how could that be tested?
+
+Possible methods include, but are not limited to:
+
+- **Definition and conceptual analysis:** clarify meanings, categories, assumptions, and distinctions.
+- **Descriptive analysis:** establish what exists or what is happening.
+- **Comparison and evaluation:** compare options, cases, outcomes, or performance against explicit criteria.
+- **Causal analysis:** investigate why an outcome occurred and test alternative explanations.
+- **Quantitative analysis:** calculate, estimate, measure, or test patterns using appropriate data and methods.
+- **Structural and relationship analysis:** identify components, roles, connections, and dependencies.
+- **Process analysis:** establish how an activity or system operates, including steps, inputs, outputs, and failure points.
+- **Historical and change analysis:** compare states across suitable time periods or reference points.
+- **Spatial analysis:** investigate location, distance, distribution, or geographic relationships when relevant.
+- **Scenario and forecasting analysis:** examine possible future outcomes, assumptions, and conditions.
+- **Procedural or design analysis:** develop a workable process or solution against stated requirements and constraints.
+
+This is a menu of methods, not a mandatory list. A question may need one method or several. Some methods may be combined, and the appropriate method may change when the investigation reveals new evidence. Record why a method is being used when the choice materially affects the conclusions. Do not force a question into an unsuitable method merely because that method appears in this document.
 
 ## 4. From the Question to Information Requirements
 
@@ -122,7 +150,7 @@ If the necessary evidence cannot be found, the correct result may be an unresolv
 
 ## 5. Establishing the Baseline
 
-For investigations that examine changes, the baseline is the best-supported account of the situation before the change being assessed.
+For investigations that examine changes, a baseline is the best-supported representation of the relevant state of the subject against which later information can be compared. It is not everything known about the subject; it includes the information relevant to the question and comparison.
 
 The baseline may describe:
 
@@ -206,6 +234,20 @@ An unresolved question records something important that cannot yet be answered a
 It should state what is missing, why it matters, what evidence could resolve it, and what should be investigated next.
 
 Keeping uncertainty visible prevents gaps from being silently filled with assumptions.
+
+### 6.7 Keep analytical objects distinct
+
+The following concepts are related but should not be treated as interchangeable:
+
+- **State:** what is true or known about a subject at a particular time.
+- **Event:** something that happened or is reported to have happened.
+- **Change:** a difference between two states or conditions.
+- **Relationship:** a connection between entities, conditions, processes, or resources.
+- **Finding:** what the available evidence establishes or supports within a defined scope.
+- **Interpretation:** what one or more findings mean when considered together.
+- **Implication:** what may follow if a proposed mechanism and its necessary conditions hold.
+
+For example, an acquisition is an event. The ownership before and after the acquisition describes a change in state. The buyer and acquired company are entities, and the acquisition connects them through a relationship. Evidence establishing the acquisition supports a finding. A conclusion that the buyer may gain greater market influence is an interpretation; a claim that competitors will lose access to distribution is a possible implication that requires additional evidence. The implication should not be reported as an observed outcome unless it has been established.
 
 ## 7. Analysing Relationships and Dependencies
 
@@ -338,25 +380,26 @@ If important evidence is missing, the report should state that limitation rather
 
 ## 13. Proposed General Analysis Sequence
 
-The following is a proposed sequence for organising an investigation:
+The following is an adaptive sequence for organising an investigation. It is a guide to decisions, not a requirement to perform every analytical operation in every case.
 
-1. Define the main investigation question.
-2. Establish the scope and purpose.
-3. Break the question into answerable subquestions.
-4. Identify required information categories.
-5. Establish the current baseline where relevant.
-6. Locate and investigate sources.
-7. Record evidence-supported findings.
-8. Identify relevant entities and relationships.
-9. Compare information across sources and time periods.
-10. Identify and classify material changes.
-11. Analyse dependencies and possible transmission mechanisms.
-12. Assess possible implications and distinguish them from observed outcomes.
-13. Record uncertainties and prioritise unresolved questions.
-14. Prepare the appropriate report.
-15. Review the investigation for evidence quality, gaps, and methodological weaknesses.
+1. **Clarify the task:** define the question, intended use, scope, constraints, and what would count as a satisfactory answer.
+2. **Determine answer requirements:** break the question into subquestions and identify what must be established for each.
+3. **Select methods:** choose the analytical methods needed to produce and test the answer. Record why specialist methods are necessary when that choice matters.
+4. **Plan the evidence:** identify the required source types, data, observations, comparisons, or tests.
+5. **Gather and examine evidence:** use `01-investigation-method.md` to examine relevant sources and preserve traceability.
+6. **Structure the findings:** record the relevant findings and, where useful, entities, relationships, events, states, measurements, and uncertainties.
+7. **Analyse and test:** apply the selected methods; examine alternatives, contradictions, assumptions, and limitations where relevant.
+8. **Assess answer sufficiency:** determine whether the evidence answers the question to the required standard. If not, identify the specific gap and return to the relevant earlier step.
+9. **Prepare the appropriate output:** present the answer, evidence, reasoning, uncertainty, and any requested implications or actions in a form suitable for the task.
+10. **Review quality:** check that conclusions are proportionate to evidence, the scope is clear, and important limitations are visible.
 
-This sequence is a working proposal. Some investigations will require repeated movement between steps rather than a strictly linear process.
+Not every investigation needs a baseline, change classification, relationship map, calculation, forecast, or recommendation. Use these only when the question calls for them. Simple questions may need a short path through the sequence; complex questions may involve multiple loops between evidence gathering, analysis, and testing.
+
+### 13.1 Answer sufficiency and stopping
+
+An investigation is sufficiently complete when it has answered the question to the level justified by the available evidence and the task's needs, and when material limitations are made explicit. This does not require eliminating every uncertainty.
+
+Continue investigating when an unresolved issue could materially change the answer, when a central claim lacks adequate support, or when a necessary comparison or test has not been performed. Stop or report a qualified answer when additional evidence is unlikely to change the conclusion, cannot reasonably be obtained, or falls outside the agreed scope. State which situation applies rather than implying certainty or completeness without justification.
 
 ## 14. Relationship to the Other Project Documents
 
@@ -370,18 +413,23 @@ This document explains how to formulate the investigation question and structure
 
 Together, these documents should provide a coherent method without forcing every investigation to use the same report format.
 
-## 15. Items Requiring Confirmation or Testing
+## 15. Testing and Improving the Framework
 
-The following points should remain open until supported by the existing work or practical testing:
+The framework should be tested against questions that differ in purpose, complexity, domain, and required output. Useful test types include a conceptual question, a causal question, a comparison, a process investigation, a structural or relationship question, and a scenario-based question.
 
-- The exact original wording of the recurring investigation question.
-- The precise information categories used in the earliest version of the investigation structure.
-- Which existing categories are essential across most investigations and which depend on the domain.
-- Whether the proposed classifications cover the changes we actually encounter.
-- Whether the proposed analysis sequence is clear and practical for another researcher.
-- Whether any proposed step duplicates instructions already documented in the source investigation guide.
+For each test, assess:
 
-The goal is to preserve the original method accurately, identify its strengths and limitations, and improve it deliberately.
+- Did the framework clarify what the question requires?
+- Did it select appropriate methods without forcing unnecessary steps?
+- Did it identify the evidence and reasoning needed?
+- Did it expose important assumptions, uncertainty, or missing information?
+- Did it produce an answer or output suitable for the task?
+- Could another researcher follow the reasoning and reproduce the important checks?
+- What specific failure or friction should be corrected?
+
+Record the problem observed, the proposed change, and the expected benefit. Do not add methods, categories, or documentation merely because they seem potentially useful. Add or revise them when testing reveals a meaningful gap or when a clearly justified need arises.
+
+The framework is intended to evolve through practical testing, while preserving a clear distinction between established principles, working proposals, and methods that have not yet been validated.
 
 ## 16. Intended Outcome
 
