@@ -16,7 +16,7 @@ It addresses:
 
 The goal is to develop a reporting approach that can be applied across different subjects without making the framework dependent on one industry or research topic.
 
-**Important:** This document records the general reporting principles and a proposed structure. The exact historical weekly template must be confirmed against the earlier work before the proposed structure can be treated as a faithful record of the original.
+**Important:** This document records general reporting principles and an optional recurring-review template. The template is a working format, not a universal requirement; its usefulness should be judged by how well it serves the question, audience, and intended use.
 
 ## 2. Why Reporting Structure Matters
 
@@ -72,9 +72,9 @@ A recurring review should distinguish:
 
 A recurring review should retain relevant context, but it should not present old information as new simply because it appears in a newly published source.
 
-## 5. Proposed General Weekly Reporting Structure
+## 5. Optional Recurring-Review Structure
 
-The following structure is a working proposal informed by our previous investigation work. It should be compared with the original weekly template before being treated as the definitive historical version.
+The following nine-section structure is a working template for recurring research reviews. It is not the universal format for every investigation and should not be treated as a mandatory checklist. Include sections when they serve a real purpose; combine, shorten, omit, or expand them according to the question, audience, evidence, and frequency of review. A simple question may need only a concise answer with supporting evidence, while a recurring review may benefit from the fuller structure below.
 
 ### Section 1. Executive Intelligence Brief
 
@@ -208,22 +208,23 @@ A report should not imply that substantial new intelligence exists merely becaus
 
 A review that establishes no material change can still be useful if its scope and limitations are clear.
 
-### Section 9. Single Best Next Research Step
+### Section 9. Prioritised Next Research Actions
 
-**Purpose:** Identify the next investigation action most likely to improve the quality or usefulness of the analysis.
+**Purpose:** Identify the next actions that are most likely to improve the quality or usefulness of the analysis, when further research is warranted.
 
-The proposed action should:
+For each priority action, identify:
 
-- Address an important uncertainty or test a consequential relationship.
-- Identify the evidence or source required.
-- Explain why the step has priority over alternatives.
-- State what different possible results would mean for the current assessment.
+- The unresolved question or claim it addresses.
+- The evidence, source, or test required.
+- Why it deserves priority.
+- What different possible results would mean for the assessment.
+- Any dependency on another action.
 
-The aim is to give the next research session a clear starting point without assuming that the proposed step must remain the best option if new evidence emerges.
+There may be one clearly preferred action or several actions that can proceed in parallel. If the evidence is sufficient for the task, state that no further research is currently required rather than inventing a next step.
 
 ## 6. How the Reporting Sections Fit Together
 
-The nine sections serve different purposes and should not be treated as nine independent lists of facts.
+The sections serve different purposes and should not be treated as nine independent lists of facts. They are optional reporting components, not mandatory stages of investigation.
 
 The executive brief communicates the principal conclusions. The change log records what is different. Priority-event investigations establish what happened and what remains uncertain. Relationship analysis examines possible consequences. The evidence and relationship registers preserve traceability and structure. Unresolved questions expose gaps, the intelligence-value assessment evaluates the contribution of the review, and the next research step directs further investigation.
 
@@ -310,6 +311,10 @@ Each high-priority unresolved question should have a clear next step or an expla
 
 A review with few material changes should be shorter than a review involving several major developments. The structure should preserve the necessary checks without forcing every section to contain artificial content.
 
+### 9.7 Match the output to the question
+
+Before selecting a report format, identify what the reader needs to receive. Possible outputs include a direct answer, explanation, comparison, procedure, calculation, visualisation, scenario analysis, decision briefing, recurring review, or detailed report. Use the shortest form that adequately answers the question and exposes material evidence, reasoning, and uncertainty. Do not use an intelligence-report format by default when another format would serve the task better.
+
 ## 10. Quality-Control Checklist for Reports
 
 Before finalising a report, check the following.
@@ -348,20 +353,19 @@ Before finalising a report, check the following.
 - Is the level of detail appropriate to the significance and uncertainty of the findings?
 - Can a new reader follow the reasoning without undocumented background knowledge?
 
-## 11. What Must Be Confirmed About the Historical Template
+## 11. Universal Output Functions and Optional Formats
 
-The nine-section structure above is available from our more recent work, but the exact original weekly template and the sequence of its development have not been fully reconstructed in this document.
+Regardless of format, an output should fulfil the functions relevant to its task:
 
-Before describing the evolution as a verified history, we need to establish:
+1. **Answer the question:** state what has been established, or clearly state that the evidence does not support a definitive answer.
+2. **Show the basis:** provide the evidence, reasoning, calculations, or sources needed to assess important claims.
+3. **Explain meaning where needed:** include interpretation, comparisons, implications, trade-offs, or recommendations when the question calls for them.
+4. **Expose limitations:** identify material uncertainty, assumptions, scope restrictions, and missing evidence.
+5. **Support the next use:** provide actions, monitoring, methods, data, or supporting records only when they are useful to the intended reader or task.
 
-1. The original weekly investigation question.
-2. The exact headings and order of the earliest recurring report.
-3. Which sections existed from the beginning.
-4. Which sections were added later and why.
-5. How the PDF deep dives changed the investigation process, if at all.
-6. Which changes improved the work and which may have introduced unnecessary complexity.
+Possible formats include a concise response, explanatory note, comparison table, procedure, calculation, chart, technical analysis, decision brief, recurring review, or comprehensive report. The same investigation may support more than one output, but the output should not obscure the distinction between evidence, interpretation, and hypothetical implications.
 
-Until that comparison is completed, the nine-section version should be treated as a documented working structure, not necessarily the exact original template.
+Choose a format by considering the question, audience, intended use, complexity, evidential burden, and need for future reuse. A format is successful when it communicates the answer clearly and faithfully—not when every possible section has been filled.
 
 ## 12. Intended Outcome
 
