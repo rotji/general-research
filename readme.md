@@ -60,15 +60,13 @@ These areas are related but should not be treated as interchangeable. A reportin
 
 ## 5. General Investigation Model
 
-The initial working model is:
+The framework uses a question-driven, adaptive process:
 
-**Investigation question → Source discovery → Source examination → Evidence extraction → Verification → Structured information → Relationship analysis → Change analysis → Implication assessment → Reporting**
+**Question and task → Information requirements → Method selection → Evidence gathering → Analysis and testing → Answer and output**
 
-The process begins by defining what we need to understand. We then locate and examine relevant sources, extract and verify what they establish, organise the findings, examine how the information connects, assess changes and possible consequences, and communicate the results with appropriate evidence and uncertainty.
+The question determines what needs to be established and what would count as a satisfactory answer. Those requirements guide the choice of sources and analytical methods. The evidence is then examined, the reasoning and conclusions are tested, and the result is presented in a form appropriate to the task.
 
-This is a working model, not yet a final or fully validated procedure. The detailed steps, feedback loops, and decision points will be refined as the project develops.
-
-Investigations may need to return to earlier stages. For example, analysing a relationship may reveal that a source is missing, a definition is unclear, or a claim needs further verification.
+This is an organising model, not a rigid sequence. A simple question may need only a few steps. A complex investigation may require several methods, repeated verification, alternative explanations, or feedback to an earlier stage when evidence is missing or a test fails. Methods such as causal analysis, comparison, relationship mapping, quantitative analysis, change analysis, and scenario analysis should be selected when they help answer the question, not applied automatically.
 
 ## 6. Core Principles
 
@@ -112,24 +110,24 @@ This material should be preserved and organised in the project rather than recre
 
 ### 7.2 Existing investigation question and information structure
 
-A recurring investigation approach has been used to identify what information is needed, organise extracted findings, examine entities and relationships, trace dependencies, assess changes, and determine possible implications.
+Existing work provides useful material for developing the general method: defining information requirements, organising findings, examining relationships, tracing dependencies, assessing changes, and considering possible implications.
 
-The original question and the precise structure used in earlier work must be documented before a replacement is proposed. Improvements should be explained in terms of the problems they solve.
+This material should be evaluated for its usefulness and generalisability. Historical reconstruction can help explain why a method developed, but it is not a prerequisite for improving the framework. New methods should be added when they solve an identified problem or help the framework handle questions it could not previously answer well.
 
 ### 7.3 Existing reporting structure
 
-A recurring weekly research and reporting structure has also been used. Additional analysis, including deeper document investigations, has developed alongside that work.
+A recurring weekly reporting structure and deeper investigations provide useful examples of different output needs. They should remain available as specific formats, while the general framework allows other outputs when a question requires them.
 
-The earlier structure and its evolution need to be documented accurately. Where the historical details are uncertain or unavailable, they should be marked for confirmation rather than reconstructed as if they were verified.
+Historical details should be labelled carefully when relevant, but the central objective is to develop a method that works for future questions, not to preserve one reporting format as universal.
 
 ## 8. Planned Project Organisation
 
 The project will initially use four substantive Markdown files.
 
-- `README.md` — project purpose, context, principles, current status, and navigation.
-- `01-investigation-method.md` — the investigation process, detailed source checklist, source-type guidance, evidence verification, and quality controls.
-- `02-investigation-question-and-analysis-structure.md` — the original investigation question, information requirements, structured analysis, relationship analysis, change analysis, and proposed improvements.
-- `03-reporting-structure-and-evolution.md` — the existing reporting structure, how it developed, and recommended improvements.
+- `readme.md` — project purpose, principles, current status, and navigation.
+- `01-investigation-method.md` — source examination, evidence extraction and verification, source-type guidance, and quality controls.
+- `02-investigation-question-analysis-structure.md` — question interpretation, information requirements, method selection, structured analysis, and answer sufficiency.
+- `03-reporting-structure-evolution.md` — output principles, reporting formats, recurring reviews, and reporting quality.
 
 Each file should contain enough context and explanation for a new reader to understand the subject without needing to consult the conversation in which it was developed.
 
@@ -139,14 +137,14 @@ Additional files should only be introduced when the material becomes too large, 
 
 The framework will be developed incrementally.
 
-1. Document the project purpose and general principles.
-2. Preserve and organise the existing source investigation guide.
-3. Document the original investigation question and information structure.
-4. Document the earlier reporting method and its evolution.
-5. Identify gaps, overlaps, ambiguities, and weaknesses.
-6. Propose improvements and explain their rationale.
-7. Test the method against a practical worked example.
-8. Revise the documentation based on what the test reveals.
+1. Establish the project purpose and general principles.
+2. Preserve the useful source investigation guide.
+3. Strengthen the central process for interpreting questions and selecting methods.
+4. Test that process against different question types and domains.
+5. Identify gaps, overlaps, unnecessary steps, and unsupported conclusions.
+6. Revise the source guide and reporting guidance where the tests reveal a need.
+7. Align the README with the tested structure.
+8. Repeat testing as new kinds of questions expose new requirements.
 
 The existing material is the starting point. The objective is to improve it carefully, not discard it or redesign it without justification.
 
@@ -154,20 +152,21 @@ The existing material is the starting point. The objective is to improve it care
 
 ### Established direction
 
-- The project is a general investigation framework, not a domain-specific system.
-- The existing source investigation checklist should be preserved.
-- The investigation question, analysis structure, and reporting structure should be documented separately enough to avoid confusion.
-- The project should begin with a small number of substantive files.
-- The method should distinguish evidence, inference, uncertainty, and unknowns.
+- The project is a general investigation framework that should adapt to unfamiliar questions and domains.
+- The existing source investigation guide should be preserved and improved only where there is a clear need.
+- Question interpretation and method selection are central; analytical methods are selected according to the task rather than applied automatically.
+- The source guide, central analysis guide, and reporting guide have distinct but connected responsibilities.
+- The method should distinguish evidence, findings, interpretations, assumptions, uncertainty, and unknowns.
+- The project should remain small and practical until testing demonstrates a need for additional material.
 - No automation or software implementation is required at this stage.
 
 ### Still to be established
 
-- The exact original wording and scope of the recurring investigation question.
-- The precise details of the earlier weekly structure.
-- Which elements of the later, more detailed analysis are essential to the general method.
-- Which proposed improvements solve genuine problems and which are unnecessary.
-- How best to test whether another person can follow the framework independently.
+- How reliably the framework selects methods appropriate to different questions.
+- Which analytical methods need clearer instructions or decision criteria.
+- Whether the framework can identify when an answer is sufficient, uncertain, or still incomplete.
+- Which steps create unnecessary work for simple questions.
+- Whether another researcher can apply the framework independently to an unfamiliar question.
 
 ## 11. Definition of Progress
 
