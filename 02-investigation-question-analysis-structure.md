@@ -96,6 +96,26 @@ Possible methods include, but are not limited to:
 
 This is a menu of methods, not a mandatory list. A question may need one method or several. Some methods may be combined, and the appropriate method may change when the investigation reveals new evidence. Record why a method is being used when the choice materially affects the conclusions. Do not force a question into an unsuitable method merely because that method appears in this document.
 
+### 3.5 Choose the investigation path
+
+The framework supports two paths through one shared analytical foundation. Select the path according to the purpose of the task, not simply the subject area or the amount of information available.
+
+**Question-driven investigation**
+
+Use this path when the task is to establish an answer to a defined question. Identify what the answer must establish, determine the required information and evidence, select appropriate methods, and stop when the evidence is sufficient for the stated purpose—or explain why it is not sufficient.
+
+**Continuous investigation**
+
+Use this path when the task is to maintain an up-to-date understanding of a subject as relevant information changes over time. Define the subject, scope, monitoring purpose, and what kinds of developments could materially change the assessment. Establish a supported baseline when comparison over time matters. Review new information, distinguish new events from newly discovered information and changed interpretations, update the relevant records, and decide whether a focused investigation is needed.
+
+Continuous investigation does not mean researching everything about a subject indefinitely. The scope should specify what matters, which developments warrant attention, and when a review is complete. A review may conclude that no material change was established within the scope examined; it should not imply that no change occurred anywhere if coverage was limited.
+
+**Combined use**
+
+The paths can connect. A continuous review may reveal a focused question that requires deeper evidence gathering or a different analytical method. That focused investigation should retain its own question, scope, evidence requirements, and sufficiency test. Its findings can then update the ongoing understanding where relevant. A question-driven investigation can also remain a standalone task when there is no reason to monitor the subject afterwards.
+
+Use the same standards for evidence, uncertainty, source assessment, and transparent reasoning in both paths. Do not force a one-off investigation into a recurring review format, and do not force an ongoing investigation to stop permanently after one question has been answered.
+
 ## 4. From the Question to Information Requirements
 
 Once the question is defined, the next task is to determine what must be known to answer it.
@@ -401,17 +421,31 @@ An investigation is sufficiently complete when it has answered the question to t
 
 Continue investigating when an unresolved issue could materially change the answer, when a central claim lacks adequate support, or when a necessary comparison or test has not been performed. Stop or report a qualified answer when additional evidence is unlikely to change the conclusion, cannot reasonably be obtained, or falls outside the agreed scope. State which situation applies rather than implying certainty or completeness without justification.
 
+### 13.2 Continuous investigation as a recurring loop
+
+For continuous investigation, reuse the general analysis sequence as a loop rather than treating it as a one-time process:
+
+1. **Set the scope and reference point:** define the subject, period, relevant areas to observe, and baseline where comparison is necessary.
+2. **Review new information:** examine sources relevant to the agreed scope, applying the shared evidence standards.
+3. **Classify what is new:** distinguish new real-world events from newly discovered information, changed sources, changed interpretations, and no material change established within the review's scope.
+4. **Assess significance:** determine whether the information changes the current understanding or creates an important uncertainty.
+5. **Choose the next action:** update the record, monitor the issue, open a focused investigation, or take no further action when the finding does not warrant it.
+6. **Update the assessment:** incorporate supported findings, preserve material earlier conclusions and explain revisions, and record unresolved questions.
+7. **Repeat when appropriate:** conduct the next review according to the purpose and cadence of the investigation.
+
+This loop is not a requirement to monitor every subject continuously or to repeat every step at every review. Its scope, review frequency, and thresholds for deeper investigation should reflect the task. A focused investigation arising from this loop should use the question-driven process and feed its findings back into the ongoing assessment only where relevant.
+
 ## 14. Relationship to the Other Project Documents
 
-`README.md` explains the overall project and its principles.
+`readme.md` explains the overall project, the two investigation paths, and their shared foundation.
 
-`01-investigation-method.md` explains how to investigate sources, extract evidence, and verify claims.
+`01-investigation-method.md` explains how to investigate sources, extract evidence, and verify claims. These source and evidence methods support both paths.
 
-This document explains how to formulate the investigation question and structure the resulting information and analysis.
+This document explains how to formulate the investigation question, choose the appropriate path, identify information requirements, select methods, and structure the resulting analysis.
 
-`03-reporting-structure-and-evolution.md` will explain how the investigation is communicated through the existing reporting approach and how that approach may be improved.
+`03-reporting-structure-evolution.md` explains general output principles and optional formats, including recurring reviews and focused investigations.
 
-Together, these documents should provide a coherent method without forcing every investigation to use the same report format.
+Together, these documents should provide a coherent method without forcing every investigation to use the same workflow or report format.
 
 ## 15. Testing and Improving the Framework
 
