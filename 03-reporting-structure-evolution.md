@@ -258,6 +258,24 @@ A deep dive should not be treated as a separate, disconnected body of research. 
 
 Likewise, a weekly report should not be overloaded with all the details from every deep dive. It should summarise the important conclusions and direct the reader to the detailed analysis when necessary.
 
+### Operating the two investigation paths together
+
+The recurring-review path and the question-driven path are complementary parts of one investigation framework, not separate methods.
+
+A practical handoff works as follows:
+
+1. A recurring review identifies a development, contradiction, evidence gap, or change that may matter.
+2. The reviewer decides whether it can be assessed adequately within the routine review or requires a focused question.
+3. If a deeper investigation is justified, define that question, its scope, the evidence required, and what would count as a sufficient answer.
+4. Conduct the focused investigation using the shared source and analytical methods. Do not assume that every section of the recurring-review template is needed.
+5. Record the result, its limitations, and any unresolved issues.
+6. Update the ongoing assessment, baseline, evidence records, or monitoring priorities only where the new findings warrant it.
+7. Reflect the material result in a later recurring review without reproducing the entire deep dive.
+
+A focused investigation can also be conducted independently. Its findings do not automatically require ongoing monitoring; monitoring should continue only when maintaining an updated view serves the original purpose.
+
+The recurring review should not treat every new publication as a new event or every uncertainty as a reason for a deep dive. The decision should depend on relevance, potential significance, uncertainty, the effect on the current assessment, and whether additional evidence could materially improve understanding.
+
 ## 8. How the Reporting Approach Should Evolve
 
 The reporting structure should be improved based on actual problems encountered during research.
