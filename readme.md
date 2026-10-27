@@ -60,13 +60,30 @@ These areas are related but should not be treated as interchangeable. A reportin
 
 ## 5. General Investigation Model
 
-The framework uses a question-driven, adaptive process:
+The framework has one shared investigation engine and two complementary paths:
+
+- **Question-driven investigation:** investigate a defined question and establish an answer that is sufficient for its purpose.
+- **Continuous investigation:** maintain an evidence-backed understanding of a subject over time, identify material developments, and open focused investigations when needed.
+
+Both paths use the same adaptive core:
 
 **Question and task → Information requirements → Method selection → Evidence gathering → Analysis and testing → Answer and output**
 
-The question determines what needs to be established and what would count as a satisfactory answer. Those requirements guide the choice of sources and analytical methods. The evidence is then examined, the reasoning and conclusions are tested, and the result is presented in a form appropriate to the task.
+For continuous investigation, the task may be to maintain an up-to-date understanding rather than answer one isolated question. That task still requires a clear purpose, defined scope, relevant information requirements, appropriate methods, and an explicit basis for deciding what counts as a material development.
 
-This is an organising model, not a rigid sequence. A simple question may need only a few steps. A complex investigation may require several methods, repeated verification, alternative explanations, or feedback to an earlier stage when evidence is missing or a test fails. Methods such as causal analysis, comparison, relationship mapping, quantitative analysis, change analysis, and scenario analysis should be selected when they help answer the question, not applied automatically.
+The paths are not separate frameworks. A continuous investigation may generate a focused question that needs deeper research. The results of that focused investigation can then update the broader understanding, evidence records, and future monitoring priorities. A question-driven investigation can also stand alone without becoming a monitoring programme.
+
+This is an organising model, not a rigid sequence. A simple question may need only a few steps. A complex investigation may require several methods, repeated verification, alternative explanations, or feedback to an earlier stage when evidence is missing or a test fails. Continuous work may repeat parts of the process as new information appears. Methods such as causal analysis, comparison, relationship mapping, quantitative analysis, change analysis, and scenario analysis should be selected when they help answer the task, not applied automatically.
+
+### 5.1 Choosing the investigation path
+
+Choose the path according to the work required:
+
+- Use **question-driven investigation** when the main need is to answer a defined question, evaluate a claim, explain a process, compare alternatives, or support a particular decision.
+- Use **continuous investigation** when the subject needs to be followed over time, the current understanding may become outdated, and new developments could materially change the assessment.
+- Use **both together** when an ongoing review identifies a question that cannot be resolved adequately in the routine review, or when a focused investigation produces findings that should update an ongoing subject assessment.
+
+Do not choose continuous investigation merely because a topic is broad or complex. Use it when maintaining an evolving understanding is itself part of the task. Likewise, do not turn every focused question into a recurring monitoring process unless there is a reason to keep watching the subject.
 
 ## 6. Core Principles
 
@@ -139,12 +156,14 @@ The framework will be developed incrementally.
 
 1. Establish the project purpose and general principles.
 2. Preserve the useful source investigation guide.
-3. Strengthen the central process for interpreting questions and selecting methods.
-4. Test that process against different question types and domains.
-5. Identify gaps, overlaps, unnecessary steps, and unsupported conclusions.
-6. Revise the source guide and reporting guidance where the tests reveal a need.
-7. Align the README with the tested structure.
-8. Repeat testing as new kinds of questions expose new requirements.
+3. Make the shared analytical process and the choice between the two investigation paths explicit.
+4. Test the question-driven path against different question types and domains.
+5. Test the continuous path using a subject that evolves over time, including how new information is classified and when deeper investigation is triggered.
+6. Test the connection between paths: a monitoring finding should be able to generate a focused question, and the focused result should be able to update the ongoing understanding.
+7. Identify gaps, overlaps, unnecessary steps, and unsupported conclusions.
+8. Revise the source guide and reporting guidance only where the tests reveal a need.
+9. Align the README with the tested structure.
+10. Repeat testing as new kinds of questions expose new requirements.
 
 The existing material is the starting point. The objective is to improve it carefully, not discard it or redesign it without justification.
 
@@ -152,7 +171,8 @@ The existing material is the starting point. The objective is to improve it care
 
 ### Established direction
 
-- The project is a general investigation framework that should adapt to unfamiliar questions and domains.
+- The project is one general investigation framework with a shared analytical foundation and two complementary paths: question-driven investigation and continuous investigation.
+- The two paths can operate independently or connect when ongoing monitoring generates a focused question or a focused investigation updates an ongoing assessment.
 - The existing source investigation guide should be preserved and improved only where there is a clear need.
 - Question interpretation and method selection are central; analytical methods are selected according to the task rather than applied automatically.
 - The source guide, central analysis guide, and reporting guide have distinct but connected responsibilities.
